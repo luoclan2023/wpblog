@@ -7,7 +7,7 @@
 其他用户可访问地址：https://raw.githubusercontent.com/5iehomecc/wpblog/master/img/xxx.webp
 
 ## JsDelivr CDN 加速地址
+调用仓库里的 css/js/图片/字体 等静态资源
 - `https://cdn.jsdelivr.net/gh/5iehomecc/wpblog@latest/img/`
 - `https://cdn.jsdelivr.net/gh/5iehomecc/wpblog@latest/font/`
-或
-- `https://fastly.jsdelivr.net/gh/5iehomecc/wpblog@latest`调用仓库里的 css/js/图片 等静态资源
+- `https://fastly.jsdelivr.net/gh/5iehomecc/wpblog@latest`
