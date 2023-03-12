@@ -2,9 +2,9 @@
 
 ## 目录结构
 - img：存放文章封面，配图，结合 PigGo token，用于直接 PigGo 上传图片
+ - 其他用户可访问地址：`https://raw.githubusercontent.com/5iehomecc/wpblog/master/img/xxx.webp`
 - font：存放自定义字体
 - wp-plugins：存放插件
-其他用户可访问地址：https://raw.githubusercontent.com/5iehomecc/wpblog/master/img/xxx.webp
 
 ## JsDelivr CDN 加速地址
 调用仓库里的 css/js/图片/字体 等静态资源
