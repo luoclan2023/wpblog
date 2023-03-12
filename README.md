@@ -2,7 +2,7 @@
 
 ## 目录结构
 - img：存放文章封面，配图，结合 PigGo token，用于直接 PigGo 上传图片
-- - 其他用户可访问地址：`https://raw.githubusercontent.com/5iehomecc/wpblog/master/img/xxx.webp`
+  - 其他用户可访问地址：`https://raw.githubusercontent.com/5iehomecc/wpblog/master/img/xxx.webp`
 - fonts：存放自定义字体
 - css：存放 css 文件
 - js：存放 js 文件
