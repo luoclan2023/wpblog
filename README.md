@@ -12,4 +12,12 @@
 调用仓库里的 css/js/图片/字体 等静态资源
 - `https://cdn.jsdelivr.net/gh/5iehomecc/wpblog@latest/img/`
 - `https://cdn.jsdelivr.net/gh/5iehomecc/wpblog@latest/fonts/`
-- `https://fastly.jsdelivr.net/gh/5iehomecc/wpblog@latest`
+
+考虑到之前 cdn.jsdelivr.net 曾经访问不了，可以用以下域名替代
+
+```
+fastly.jsdelivr.net
+gcore.jsdelivr.net
+originfastly.jsdelivr.net
+quantil.jsdelivr.net
+```
