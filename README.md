@@ -5,5 +5,5 @@
 - wp-plugins：存放插件
 其他用户可访问地址：https://raw.githubusercontent.com/5iehomecc/5iehome.cc/master/img/xxx.webp
 ## JsDelivr CDN 加速地址
-https://cdn.jsdelivr.net/gh/5iehomecc/5iehome.cc/img/
-https://cdn.jsdelivr.net/gh/5iehomecc/5iehome.cc/font/
+- https://cdn.jsdelivr.net/gh/5iehomecc/5iehome.cc/img/
+- https://cdn.jsdelivr.net/gh/5iehomecc/5iehome.cc/font/
