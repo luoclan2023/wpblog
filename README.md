@@ -11,5 +11,5 @@
 ## JsDelivr CDN 加速地址
 调用仓库里的 css/js/图片/字体 等静态资源
 - `https://cdn.jsdelivr.net/gh/5iehomecc/wpblog@latest/img/`
-- `https://cdn.jsdelivr.net/gh/5iehomecc/wpblog@latest/font/`
+- `https://cdn.jsdelivr.net/gh/5iehomecc/wpblog@latest/fonts/`
 - `https://fastly.jsdelivr.net/gh/5iehomecc/wpblog@latest`
